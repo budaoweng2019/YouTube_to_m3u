@@ -1,8 +1,8 @@
 #! /usr/bin/python3
 
 banner = r'''
-#EXTINF:-1 ,CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
 '''
 
 import requests
