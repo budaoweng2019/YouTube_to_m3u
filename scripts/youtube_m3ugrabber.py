@@ -1,8 +1,11 @@
 #! /usr/bin/python3
 
 banner = r'''
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+#EXTINF:-1 ,凤凰中文 IPV6 1080
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+
+#EXTINF:-1 ,凤凰资讯 IPV6 1080
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 '''
 
 import requests
@@ -40,6 +43,8 @@ def grab(url):
     print(f"{link[start : end]}")
 
 print('#EXTM3U')
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
