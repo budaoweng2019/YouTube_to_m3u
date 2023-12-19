@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703014323/ei/U5uBZcCME5-P_9EP6JKmsAo/ip/20.109.39.242/id/dbWswefbu_0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3OIdYDVOzDFERlJ7EGOPpR3H4wB81nOur5xqA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgN80OBd3UqDYIHl1GvPF1cTEK_sAMXG59l_0cJaMvOBcCIQC3VQmjpKomnGa58holzJdeYQVh8Mq1OOfcQ1xbUuGS7A%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703015108/ei/ZJ6BZb3oFcqukASxz5eoBQ/ip/20.109.39.17/id/dbWswefbu_0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7NzIYH9-FgWXPt11a3_vgtPFYZDlBDw9Puw1A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24472449/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgf4Y9LruTr113E5M4eDNhuI3Hc66S9g4GiI3mSoOCZwwCIFQQGKwDQAUDPcFIjzsMB9iLlj3CK5RsbiRyOPeD7rE9/file/index.m3u8
 
 #EXTINF:-1 group-title="新闻" tvg-logo="" tvg-id="", 华视新闻
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
