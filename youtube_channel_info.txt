@@ -2,8 +2,59 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
-https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
+中天新闻 | 新闻 ||
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+台视新闻 | 新闻 ||
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+三立新闻 | 新闻 ||
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+
+三立新闻海外 | 新闻 ||
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+
+中视新闻 | 新闻 ||
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+寰宇新闻 | 新闻 ||
+https://www.youtube.com/watch?v=6IquAgfvYmc
+
+东森51新闻 | 新闻 ||
+https://www.youtube.com/watch?v=E0zhe2gkXBs
+
+TVBS 线上新闻 | 新闻 ||
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+TVBS 55新闻 | 新闻 ||
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+TVBS 56新闻 | 新闻 ||
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
 华视新闻 | 新闻 ||
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+民视新闻 | 新闻 ||
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+新唐人新闻 | 新闻 ||
+https://www.youtube.com/watch?v=WIhgU_mc05A
+
+中视 饥饿游戏 | 综艺 ||
+https://www.youtube.com/watch?v=A98LJq71BZg
+
+Al Jazeera | English ||
+https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+Bloomberg | English ||
+https://www.youtube.com/watch?v=iyOq8DhaMYw
+
+Sky News | English ||
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+ABC Latest News | English ||
+https://www.youtube.com/watch?v=OOtxXPaQvoM
+
+ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
+https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
