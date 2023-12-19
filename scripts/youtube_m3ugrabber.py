@@ -3,10 +3,13 @@
 banner = r'''
 #EXTINF:-1 ,凤凰中文（成都广电）
 https://live.rxip.sc96655.com/live/test1_4000.m3u8
+
 #EXTINF:-1 ,凤凰资讯（成都广电）
 https://live.rxip.sc96655.com/live/test2_4000.m3u8
+
 #EXTINF:-1 ,凤凰中文 IPV6 1080
 http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+
 #EXTINF:-1 ,凤凰资讯 IPV6 1080
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 '''
