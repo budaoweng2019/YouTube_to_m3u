@@ -2,45 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-中天新闻 | 新闻 ||
-https://www.youtube.com/watch?v=oIgbl7t0S_w
-
-台视新闻 | 新闻 ||
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-三立新闻 | 新闻 ||
-https://www.youtube.com/watch?v=oZdzzvxTfUY
-
-三立新闻海外 | 新闻 ||
-https://www.youtube.com/watch?v=CKjSm5ZeehE
-
-中视新闻 | 新闻 ||
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-寰宇新闻 | 新闻 ||
-https://www.youtube.com/watch?v=6IquAgfvYmc
-
-东森51新闻 | 新闻 ||
-https://www.youtube.com/watch?v=E0zhe2gkXBs
-
-TVBS 线上新闻 | 新闻 ||
-https://www.youtube.com/watch?v=m_dhMSvUCIc
-
-TVBS 55新闻 | 新闻 ||
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-
-TVBS 56新闻 | 新闻 ||
-https://www.youtube.com/watch?v=YvdcZ_jpLXE
-
-民视新闻 | 新闻 ||
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-
-新唐人新闻 | 新闻 ||
-https://www.youtube.com/watch?v=WIhgU_mc05A
-
-中视 饥饿游戏 | 综艺 ||
-https://www.youtube.com/watch?v=A98LJq71BZg
-
 Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
 
@@ -50,7 +11,7 @@ https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
 News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
 
-Euronews | English | |
+Euronews | English ||
 https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
 
 Bloomberg | English ||
